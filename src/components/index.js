@@ -2,3 +2,4 @@
 
 export { CardList } from './card-list/card-list.component.jsx';
 export { Card } from './card/card.component.jsx';
+export { SearchBox } from './search-box/search-box.component.jsx';
